@@ -1,0 +1,11 @@
+Model Information:
+* title:	Street Lamb
+* source:	https://sketchfab.com/3d-models/street-lamb-e7a93f56504c40a3beec9109e507add1
+* author:	F1nNxHMHN (https://sketchfab.com/F1nNxHMHN)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Street Lamb" (https://sketchfab.com/3d-models/street-lamb-e7a93f56504c40a3beec9109e507add1) by F1nNxHMHN (https://sketchfab.com/F1nNxHMHN) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
